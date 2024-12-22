@@ -1,0 +1,16 @@
+.display {
+    margin-bottom: 20px;
+    text-align: right;
+  }
+  
+  .input {
+    font-size: 20px;
+    color: #333;
+  }
+  
+  .result {
+    font-size: 24px;
+    font-weight: bold;
+    color: #007BFF;
+  }
+  
